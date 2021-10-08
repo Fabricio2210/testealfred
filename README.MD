@@ -31,7 +31,7 @@ $ npm start
 
 As requisições seguem o modelo sugerido na descrição do teste pelo projeto.
  - Listagem de todos os projetos GET: **/projects**
- - Criação de projeto POST:  **/projects/**
+ - Criação de projeto POST:  **/projects**
  - Atualizar projeto PUT: **/projects**, parâmetros: id
  - Deletar projeto DELETE: **/projects**, parâmetros: id
  - Salvar tarefa na lista tarefas POST:  **/projects/tasks**, parâmetros: id
